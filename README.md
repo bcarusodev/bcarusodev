@@ -63,3 +63,5 @@ Hello, i'm Bruno, a passionate Full Stack Developer & technology enthusiast. I h
 Email: brunofcaruso@gmail.com - bruno@chubut.it
 
 LinkedIn: https://www.linkedin.com/in/brunocarusok/
+
+Portfolio: https://www.bcaruso.dev

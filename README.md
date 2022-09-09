@@ -35,6 +35,7 @@ Hello, i'm Bruno, a passionate Full Stack Developer & technology enthusiast. I h
 
 <strong>My personal proyects 🛠 </strong>
 
+- [portfolio](https://github.com/silvergraphs/portfolio) - My own portfolio website made with NextJS & ChakraUI
 - [wazuh-backend](https://github.com/silvergraphs/wazuh-backend) - Wazuh Work Interview Technical Task - Serverless stack 
 - [wazuh-frontend](https://github.com/silvergraphs/wazuh-frontend) - Wazuh Work Interview Technical Task - CRA frontend
 - [serverlist](https://github.com/silvergraphs/serverlist) - CRUD app to show custom servers info

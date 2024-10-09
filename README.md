@@ -11,18 +11,16 @@ Hello, i'm Bruno, a passionate Full Stack Developer & technology enthusiast. I h
 <strong>Technologies 🧑‍💻 </strong>
 
 - React (CRA, NextJS)
-- Node (AWS Lambda, Express, NestJS)
-- DB ORMs (Sequelize, Knex)
+- Node (AWS Lambda, Express, Nest)
+- DB ORMs (Sequelize, Knex, Prisma)
 - GraphQL
-- MySQL
+- MySQL/SQL Server
 
 
 <strong>AWS Services i used ☁️</strong>
 
 - CloudFormation
 - Cognito
-- AppSync
-- AppSync VTL resolvers
 - Lambda
 - API Gateway
 - EC2
@@ -56,12 +54,12 @@ Hello, i'm Bruno, a passionate Full Stack Developer & technology enthusiast. I h
 - ASRock Phantom Gaming D RX 570 4G
 - 1x XPG S40G Spectrix NVMe + 1x Kingston UV400 SSD + 2x WD Caviar Blue 7200rpm HDD
 - Corsair Carbide 100R
-- Windows 11 & macOS Big Sur dual-boot (OpenCore) 
+- Windows 11 & macOS Sonoma dual-boot (OpenCore) 
 
-<img src="https://i.imgur.com/I7s7mAD.png"/>
+<img src="https://www.bcaruso.dev/assets/images/desktop_workstation.png"/>
 
 ### Contact 📧 
-Email: brunofcaruso@gmail.com - bruno@chubut.it
+Email: contact@bcaruso.dev
 
 LinkedIn: https://www.linkedin.com/in/brunocarusok/
 

@@ -3,7 +3,7 @@ Welcome! 😄
 </p></h3>
 
 <p align="center">
-Hello, i'm Bruno, a passionate Full Stack Developer & technology enthusiast. I have a high proficiency in JavaScript and a user-centered mentality for building products. I also like finances, fitness, hackintoshing and entrepreneurial spirit. Self-taught by nature and constantly learning.
+I'm a self-taught Full Stack Engineer with +3 years of experience in various projects (fintech, ad-tech, ERP, B2B, B2C) working with React, NextJS, Node, and AWS (also Azure & GCP). 
 </p>
 
 <hr/>

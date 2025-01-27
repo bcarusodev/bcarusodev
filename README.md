@@ -3,7 +3,7 @@ Welcome! 😄
 </p></h3>
 
 <p align="center">
-I'm a self-taught Full Stack Engineer with +3 years of experience in various projects (fintech, ad-tech, ERP, B2B, B2C) working with React, NextJS, Node, and AWS (also Azure & GCP). 
+I'm a self-taught Full Stack Engineer with 4 years of experience in various projects (fintech, ad-tech, ERP, B2B, B2C) working with React, NextJS, Node, and AWS (also Azure & GCP). 
 </p>
 
 <hr/>
@@ -46,7 +46,7 @@ I'm a self-taught Full Stack Engineer with +3 years of experience in various pro
 - [almafuerte](https://github.com/silvergraphs/almafuerte) - Website for my school
 
 ### Contact 📧 
-Email: contact@bcaruso.dev
+Email: hello@bcaruso.dev
 
 LinkedIn: https://www.linkedin.com/in/brunocarusok/
 

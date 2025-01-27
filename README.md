@@ -45,19 +45,6 @@ I'm a self-taught Full Stack Engineer with +3 years of experience in various pro
 - [olimpiadasinet](https://github.com/silvergraphs/olimpiadasinet) - INET Programming Olympics exercise
 - [almafuerte](https://github.com/silvergraphs/almafuerte) - Website for my school
 
-<hr/> 
-
-### My Workstation
-
-- AMD Ryzen 5 1600 AF @ 4.0 GHz - Air Thermaltake Contac Silent 12 - DeepCool Z5
-- 16GB RAM XPG Hunter DDR4 @ 3000 MHz 
-- ASRock Phantom Gaming D RX 570 4G
-- 1x XPG S40G Spectrix NVMe + 1x Kingston UV400 SSD + 2x WD Caviar Blue 7200rpm HDD
-- Corsair Carbide 100R
-- Windows 11 & macOS Sonoma dual-boot (OpenCore) 
-
-<img src="https://www.bcaruso.dev/assets/images/desktop_workstation.png"/>
-
 ### Contact 📧 
 Email: contact@bcaruso.dev
 

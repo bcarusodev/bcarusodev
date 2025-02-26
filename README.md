@@ -3,50 +3,38 @@ Welcome! 😄
 </p></h3>
 
 <p align="center">
-I'm a self-taught Full Stack Engineer with 4 years of experience in various projects (fintech, ad-tech, ERP, B2B, B2C) working with React, NextJS, Node, and AWS (also Azure & GCP). 
+Hi, I'm Bruno, a self-taught Full Stack Engineer with +4 years of experience in various projects (fintech, ad-tech, ERP, B2B, B2C). I love working with React, Next.js, and Node.js. I'm open to other frameworks and languages and have a strong interest in crypto- and fintech-related industries.
 </p>
 
 <hr/>
 
 <strong>Technologies 🧑‍💻 </strong>
 
-- React (CRA, NextJS)
-- Node (AWS Lambda, Express, Nest)
-- DB ORMs (Sequelize, Knex, Prisma)
+- TypeScript
+- React (NextJS)
+- Node (AWS Lambda, Express, NestJS)
+- DB ORMs (Prisma, Knex, Sequelize)
 - GraphQL
-- MySQL/SQL Server
+- PostgreSQL, SQL Server
 
+<strong>Projects 🛠 </strong>
 
-<strong>AWS Services i used ☁️</strong>
-
-- CloudFormation
-- Cognito
-- Lambda
-- API Gateway
-- EC2
-- CloudWatch
-- EventBridge
-- CloudSearch
-- CloudFront
-- Some another one
-
-
-<strong>My personal proyects 🛠 </strong>
-
-- [portfolio](https://github.com/silvergraphs/portfolio) - My own portfolio website made with NextJS & ChakraUI
-- [wazuh-backend](https://github.com/silvergraphs/wazuh-backend) - Wazuh Work Interview Technical Task - Serverless stack 
-- [wazuh-frontend](https://github.com/silvergraphs/wazuh-frontend) - Wazuh Work Interview Technical Task - CRA frontend
-- [serverlist](https://github.com/silvergraphs/serverlist) - CRUD app to show custom servers info
-- [weatherapp-api](https://github.com/silvergraphs/weatherapp-api) - Check any city weather dynamicly
-- [storeapp-api](https://github.com/silvergraphs/storeapp-api) - storeapp API repo
-- [storeapp](https://github.com/silvergraphs/storeapp) - Full Stack practice proyect, trying to replicate a app store
-- [ejercfinalmtbonus](https://github.com/silvergraphs/ejercfinalmt) - Work challenge bonus exercise (for MerlionTechs)
-- [ejercfinalmt](https://github.com/silvergraphs/ejercfinalmt) - Work challenge exercise (for MerlionTechs)
-- [olimpiadasinet](https://github.com/silvergraphs/olimpiadasinet) - INET Programming Olympics exercise
-- [almafuerte](https://github.com/silvergraphs/almafuerte) - Website for my school
+- [portfolio](https://github.com/bcarusodev/portfolio) - My own portfolio website made with NextJS & shadcnui
+- [remitee-challenge-backend](https://github.com/bcarusodev/remitee-challenge-backend) - Remitee Interview Technical Task - NestJS Backend
+- [remitee-challenge-frontend](https://github.com/bcarusodev/remitee-challenge-frontend) -Remitee Interview Technical Task - React (NextJS) webapp
+- [wazuh-backend](https://github.com/bcarusodev/wazuh-backend) - Wazuh Work Interview Technical Task - Serverless stack 
+- [wazuh-frontend](https://github.com/bcarusodev/wazuh-frontend) - Wazuh Work Interview Technical Task - CRA frontend
+- [serverlist](https://github.com/bcarusodev/serverlist) - CRUD app to show custom servers info
+- [weatherapp-api](https://github.com/bcarusodev/weatherapp-api) - Check any city weather dynamicly
+- [storeapp-api](https://github.com/bcarusodev/storeapp-api) - storeapp API repo
+- [storeapp](https://github.com/bcarusodev/storeapp) - Full Stack practice proyect, trying to replicate a app store
+- [ejercfinalmtbonus](https://github.com/bcarusodev/ejercfinalmt) - Work challenge bonus exercise (for MerlionTechs)
+- [ejercfinalmt](https://github.com/bcarusodev/ejercfinalmt) - Work challenge exercise (for MerlionTechs)
+- [olimpiadasinet](https://github.com/bcarusodev/olimpiadasinet) - INET Programming Olympics exercise
+- [almafuerte](https://github.com/bcarusodev/almafuerte) - Website for my school
 
 ### Contact 📧 
-Email: hello@bcaruso.dev
+Email: contact@bcaruso.dev
 
 LinkedIn: https://www.linkedin.com/in/brunocarusok/
 

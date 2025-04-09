@@ -33,6 +33,9 @@ Hi, I'm Bruno, a self-taught Full Stack Engineer with +4 years of experience in 
 - [olimpiadasinet](https://github.com/bcarusodev/olimpiadasinet) - INET Programming Olympics exercise
 - [almafuerte](https://github.com/bcarusodev/almafuerte) - Website for my school
 
+<strong>Contributions</strong>
+
+- [magic-home-raycast](https://github.com/bcarusodev/magic-home-raycast) Raycast extension to control Magic Home based devices.
 ### Contact 📧 
 Email: contact@bcaruso.dev
 
